@@ -1,4 +1,5 @@
 # Udacity-SentimentAnalysis
+
 Sentiment Analysis Model using LSTM - developed during the Udacity Machine Learning Nanodegree
 
 This guided Project looks at building a Sentiment Analysis Model using LSTM to predict whether the sentiment of a moview review is positive or negative.
